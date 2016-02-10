@@ -1,0 +1,23 @@
+{
+  "name": "hapi-projects",
+  "version": "1.0.0",
+  "description": "Repo for makemehapi solutions",
+  "main": "hello_hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Chauhan (piyushchauhan2011@gmail.com)",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^3.1.2",
+    "h2o2": "^5.0.0",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.0.0",
+    "hapi-auth-basic": "^4.1.0",
+    "inert": "^3.2.0",
+    "joi": "^7.2.3",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.0.1"
+  }
+}
